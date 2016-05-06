@@ -1,0 +1,4 @@
+<?php
+/* Wordfence temporary file security header */
+echo "Nothing to see here!\n"; exit(0);
+?>a:20:{s:6:"apiKey";s:128:"de09a41013af9af65e22fcefc98a33112479194a65b765f1b4c1ab826c822ec59559403e7f20778b42bd6ec24136cb52682c4823cea617dd72474257a213781f";s:9:"howGetIPs";s:0:"";s:11:"whitelisted";s:0:"";s:9:"cacheType";s:0:"";s:20:"loginSec_lockoutMins";s:3:"240";s:19:"other_hideWPVersion";s:1:"1";s:33:"scansEnabled_suspiciousAdminUsers";s:1:"1";s:18:"liveTrafficEnabled";s:1:"1";s:6:"isPaid";s:0:"";s:15:"firewallEnabled";s:1:"1";s:14:"disableCookies";s:1:"0";s:10:"tourClosed";s:1:"1";s:10:"autoUpdate";s:1:"1";s:11:"alertEmails";s:20:"happyhevia@gmail.com";s:17:"actUpdateInterval";s:0:"";s:7:"debugOn";s:1:"0";s:13:"welcomeClosed";s:1:"1";s:24:"dismissAutoPrependNotice";s:0:"";s:38:"email_summary_dashboard_widget_enabled";s:1:"1";s:22:"email_summary_interval";s:8:"biweekly";}
